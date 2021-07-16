@@ -14,5 +14,7 @@ It is low level (raw) form of data and is also human readable.
 It helps developers in faster coding, in-turn reduces development cost.
 
 Screenshots:
-<img src="">
-<img src="">
+<br>
+<img src="https://github.com/Satwik-pro/JsonPowerDB/blob/master/DB.JPG?raw=true">
+<br>
+<img src="https://github.com/Satwik-pro/JsonPowerDB/blob/master/TAPI.JPG?raw=true">
